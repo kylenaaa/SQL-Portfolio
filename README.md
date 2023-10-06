@@ -8,3 +8,5 @@ The objective is to design and build a relational database that will capture and
 
 QuickDBD was used to create the relational databases.
 Tableau was used to allow the owner to monitor business performance in dashboards.
+
+![Order Activity](https://github.com/kylenaaa/SQL-Portfolio/assets/109061484/1a519fab-cc64-4749-9615-0d7cf1db91a9)
